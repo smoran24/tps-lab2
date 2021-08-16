@@ -1,0 +1,7 @@
+C:\Users\sebia\source\repos\tps-lab2\Juego01b\Juego01b\bin\Debug\Juego01b.exe.config
+C:\Users\sebia\source\repos\tps-lab2\Juego01b\Juego01b\bin\Debug\Juego01b.exe
+C:\Users\sebia\source\repos\tps-lab2\Juego01b\Juego01b\bin\Debug\Juego01b.pdb
+C:\Users\sebia\source\repos\tps-lab2\Juego01b\Juego01b\obj\Debug\Juego01b.csproj.AssemblyReference.cache
+C:\Users\sebia\source\repos\tps-lab2\Juego01b\Juego01b\obj\Debug\Juego01b.csproj.CoreCompileInputs.cache
+C:\Users\sebia\source\repos\tps-lab2\Juego01b\Juego01b\obj\Debug\Juego01b.exe
+C:\Users\sebia\source\repos\tps-lab2\Juego01b\Juego01b\obj\Debug\Juego01b.pdb

@@ -1,0 +1,7 @@
+C:\Users\sebia\source\repos\juego02\juego02\obj\Debug\juego02.csproj.AssemblyReference.cache
+C:\Users\sebia\source\repos\juego02\juego02\obj\Debug\juego02.csproj.CoreCompileInputs.cache
+C:\Users\sebia\source\repos\juego02\juego02\bin\Debug\juego02.exe.config
+C:\Users\sebia\source\repos\juego02\juego02\bin\Debug\juego02.exe
+C:\Users\sebia\source\repos\juego02\juego02\bin\Debug\juego02.pdb
+C:\Users\sebia\source\repos\juego02\juego02\obj\Debug\juego02.exe
+C:\Users\sebia\source\repos\juego02\juego02\obj\Debug\juego02.pdb

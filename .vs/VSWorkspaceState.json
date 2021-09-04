@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\juego02",
+    "\\juego02\\juego02"
   ],
-  "SelectedNode": "\\C:\\Users\\sebia\\Source\\Repos\\tps-lab2",
+  "SelectedNode": "\\juego02\\juego02\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

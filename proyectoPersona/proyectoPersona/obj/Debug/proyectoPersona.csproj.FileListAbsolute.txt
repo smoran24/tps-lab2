@@ -1,0 +1,7 @@
+C:\Users\sebia\source\repos\tps-lab2\proyectoPersona\proyectoPersona\bin\Debug\proyectoPersona.exe.config
+C:\Users\sebia\source\repos\tps-lab2\proyectoPersona\proyectoPersona\bin\Debug\proyectoPersona.exe
+C:\Users\sebia\source\repos\tps-lab2\proyectoPersona\proyectoPersona\bin\Debug\proyectoPersona.pdb
+C:\Users\sebia\source\repos\tps-lab2\proyectoPersona\proyectoPersona\obj\Debug\proyectoPersona.csproj.AssemblyReference.cache
+C:\Users\sebia\source\repos\tps-lab2\proyectoPersona\proyectoPersona\obj\Debug\proyectoPersona.csproj.CoreCompileInputs.cache
+C:\Users\sebia\source\repos\tps-lab2\proyectoPersona\proyectoPersona\obj\Debug\proyectoPersona.exe
+C:\Users\sebia\source\repos\tps-lab2\proyectoPersona\proyectoPersona\obj\Debug\proyectoPersona.pdb

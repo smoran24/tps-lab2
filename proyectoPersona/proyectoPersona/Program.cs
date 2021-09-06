@@ -20,7 +20,7 @@ namespace proyectoPersona
 
             Domicilio dom1 = new Domicilio("G.Godoy", 123);
             per2.setViveEn(dom1);
-            Console.WriteLine("Nombre: " + per2.getNombre() + ", apellido: " + per2.getApellido() + ", vive en: "+per2.getViveEn().getCalle());
+            Console.WriteLine("Nombre: " + per2.getNombre() + ", apellido: " + per2.getApellido() + ", vive en: "+per2.getViveEn().getCalle() + per2.getViveEn().getNumero());
 
             Console.Read(); //sirve para evitar que se cierre la consola
         }

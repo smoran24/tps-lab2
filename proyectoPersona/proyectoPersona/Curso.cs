@@ -20,5 +20,29 @@ namespace proyectoPersona
             this.cantAlumnos = cantAlumnos;
         }
 
+        public String getNombre()
+        {
+            return this.nombre;
+        }
+        public int getCantAlumnos()
+        {
+            return this.cantAlumnos;
+        }
+        public Persona getEsAlumno()
+        {
+            return this.esAlumno;
+        }
+        public void setNombre(String nom)
+        {
+            this.nombre = nom;
+        }
+        public void setCantAlumnos(int cantAl)
+        {
+            this.cantAlumnos = cantAl;
+        }
+        public void setEsAlumno(Persona alu)
+        {
+            this.esAlumno = alu;
+        }
     }
 }

@@ -33,6 +33,10 @@ namespace proyectoPersona
         {
             return this.viveEn;
         }
+        public Curso getCursaEn()
+        {
+            return this.cursaEn;
+        }
         public void setNombre(String nom)
         {
             this.nombre = nom;
@@ -45,6 +49,11 @@ namespace proyectoPersona
         {
             this.viveEn = vive;
         }
+        public void setCursaEn(Curso cursa)
+        {
+            this.cursaEn = cursa;
+        }
+
     }
     
 }

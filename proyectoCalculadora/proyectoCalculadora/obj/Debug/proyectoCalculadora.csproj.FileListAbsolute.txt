@@ -1,0 +1,7 @@
+C:\Users\sebia\source\repos\tps-lab2\proyectoCalculadora\proyectoCalculadora\obj\Debug\proyectoCalculadora.csproj.AssemblyReference.cache
+C:\Users\sebia\source\repos\tps-lab2\proyectoCalculadora\proyectoCalculadora\obj\Debug\proyectoCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\sebia\source\repos\tps-lab2\proyectoCalculadora\proyectoCalculadora\bin\Debug\proyectoCalculadora.exe.config
+C:\Users\sebia\source\repos\tps-lab2\proyectoCalculadora\proyectoCalculadora\bin\Debug\proyectoCalculadora.exe
+C:\Users\sebia\source\repos\tps-lab2\proyectoCalculadora\proyectoCalculadora\bin\Debug\proyectoCalculadora.pdb
+C:\Users\sebia\source\repos\tps-lab2\proyectoCalculadora\proyectoCalculadora\obj\Debug\proyectoCalculadora.exe
+C:\Users\sebia\source\repos\tps-lab2\proyectoCalculadora\proyectoCalculadora\obj\Debug\proyectoCalculadora.pdb

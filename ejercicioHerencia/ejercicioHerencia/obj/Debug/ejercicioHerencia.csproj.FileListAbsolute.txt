@@ -1,0 +1,7 @@
+C:\Users\sebia\source\repos\tps-lab2\ejercicioHerencia\ejercicioHerencia\bin\Debug\ejercicioHerencia.exe.config
+C:\Users\sebia\source\repos\tps-lab2\ejercicioHerencia\ejercicioHerencia\bin\Debug\ejercicioHerencia.exe
+C:\Users\sebia\source\repos\tps-lab2\ejercicioHerencia\ejercicioHerencia\bin\Debug\ejercicioHerencia.pdb
+C:\Users\sebia\source\repos\tps-lab2\ejercicioHerencia\ejercicioHerencia\obj\Debug\ejercicioHerencia.csproj.AssemblyReference.cache
+C:\Users\sebia\source\repos\tps-lab2\ejercicioHerencia\ejercicioHerencia\obj\Debug\ejercicioHerencia.csproj.CoreCompileInputs.cache
+C:\Users\sebia\source\repos\tps-lab2\ejercicioHerencia\ejercicioHerencia\obj\Debug\ejercicioHerencia.exe
+C:\Users\sebia\source\repos\tps-lab2\ejercicioHerencia\ejercicioHerencia\obj\Debug\ejercicioHerencia.pdb

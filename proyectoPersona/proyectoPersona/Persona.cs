@@ -8,18 +8,19 @@ namespace proyectoPersona
 {
     class Persona
     {
-        private String nombre;
-        private String apellido;
-        private Domicilio viveEn;
-        private Curso cursaEn;
+        protected String nombre;
+        protected String apellido;
+        protected Domicilio viveEn;
+        protected Curso cursaEn;
         public Persona() //constructor vacío
         {
 
         }
-        public Persona(String nombre, String apellido) //constructor sobrecargado
+        public Persona(String nombre, String apellido, String calle, int numero) //constructor sobrecargado
         {
             this.nombre = nombre;
             this.apellido = apellido;
+            this.viveEn = new Domicilio(calle, numero); //establece relacion de composición entre Persona y Domicilio
         }
         public String getNombre()
         {

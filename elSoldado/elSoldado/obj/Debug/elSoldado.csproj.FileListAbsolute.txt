@@ -1,0 +1,7 @@
+C:\Users\sebia\source\repos\tps-lab2\elSoldado\elSoldado\bin\Debug\elSoldado.exe.config
+C:\Users\sebia\source\repos\tps-lab2\elSoldado\elSoldado\bin\Debug\elSoldado.exe
+C:\Users\sebia\source\repos\tps-lab2\elSoldado\elSoldado\bin\Debug\elSoldado.pdb
+C:\Users\sebia\source\repos\tps-lab2\elSoldado\elSoldado\obj\Debug\elSoldado.csproj.AssemblyReference.cache
+C:\Users\sebia\source\repos\tps-lab2\elSoldado\elSoldado\obj\Debug\elSoldado.csproj.CoreCompileInputs.cache
+C:\Users\sebia\source\repos\tps-lab2\elSoldado\elSoldado\obj\Debug\elSoldado.exe
+C:\Users\sebia\source\repos\tps-lab2\elSoldado\elSoldado\obj\Debug\elSoldado.pdb

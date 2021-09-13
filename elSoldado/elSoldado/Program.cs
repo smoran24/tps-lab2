@@ -26,7 +26,7 @@ namespace elSoldado
                 Console.WriteLine("[3] Disparar");
                 Console.WriteLine("[4] Ver arma en uso");
                 Console.WriteLine("[5] Salir");
-                opcionMenu=Convert.ToInt32(Console.ReadLine());
+                opcionMenu = Convert.ToInt32(Console.ReadLine());
                 switch (opcionMenu)
                 {
                     case 1:
@@ -37,7 +37,7 @@ namespace elSoldado
                             Console.WriteLine("2 - Rifle");
                             Console.WriteLine("3 - Escopeta");
                             Console.WriteLine("4 - Volver atrás");
-                            opcionArma= Convert.ToInt32(Console.ReadLine());
+                            opcionArma = Convert.ToInt32(Console.ReadLine());
                             switch (opcionArma)
                             {
                                 case 1:

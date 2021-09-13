@@ -1,0 +1,7 @@
+C:\Users\sebia\source\repos\tps-lab2\CarritoDeCompras\CarritoDeCompras_MoranSebastian\obj\Debug\CarritoDeCompras_MoranSebastian.csproj.AssemblyReference.cache
+C:\Users\sebia\source\repos\tps-lab2\CarritoDeCompras\CarritoDeCompras_MoranSebastian\obj\Debug\CarritoDeCompras_MoranSebastian.csproj.CoreCompileInputs.cache
+C:\Users\sebia\source\repos\tps-lab2\CarritoDeCompras\CarritoDeCompras_MoranSebastian\bin\Debug\CarritoDeCompras_MoranSebastian.exe.config
+C:\Users\sebia\source\repos\tps-lab2\CarritoDeCompras\CarritoDeCompras_MoranSebastian\bin\Debug\CarritoDeCompras_MoranSebastian.exe
+C:\Users\sebia\source\repos\tps-lab2\CarritoDeCompras\CarritoDeCompras_MoranSebastian\bin\Debug\CarritoDeCompras_MoranSebastian.pdb
+C:\Users\sebia\source\repos\tps-lab2\CarritoDeCompras\CarritoDeCompras_MoranSebastian\obj\Debug\CarritoDeCompras_MoranSebastian.exe
+C:\Users\sebia\source\repos\tps-lab2\CarritoDeCompras\CarritoDeCompras_MoranSebastian\obj\Debug\CarritoDeCompras_MoranSebastian.pdb

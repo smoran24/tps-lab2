@@ -12,11 +12,12 @@ namespace DesafioHerencia
         protected int mCuadrados;
         protected int antiguedad;
 
-        public Inmueble(String dir, int mCuad, int antig)
+        public Inmueble(string dir, int mCuad, int antig)
         {
             this.direccion = dir;
             this.mCuadrados = mCuad;
             this.antiguedad = antig;
         }
+
     }
 }

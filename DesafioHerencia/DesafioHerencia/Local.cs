@@ -6,18 +6,18 @@ using System.Threading.Tasks;
 
 namespace DesafioHerencia
 {
-    class Local : Inmueble
+    class Local : Inmueble //hereda de la clase abstracta inmueble
     {
         private int numVentanas;
         private float precio;
 
-        public Local(int numVentanas, string dir, int mCuad, int antig) : base(dir,  mCuad,  antig)
+        public Local(int numVentanas, string dir, int mCuad, int antig, float prec) : base(dir,  mCuad,  antig) //base indica los atributos heredados de la clase superior
         {
             this.direccion = dir;
             this.mCuadrados = mCuad;
             this.antiguedad = antig;
             this.numVentanas = numVentanas;
-            this.precio = 3900000.0f;
+            this.precio = prec;
         }
 
         public float calcularValor()

@@ -1,0 +1,10 @@
+C:\Users\sebia\source\repos\tps-lab2\DesafioHerencia\DesafioHerencia\obj\Debug\DesafioHerencia.csproj.AssemblyReference.cache
+C:\Users\sebia\source\repos\tps-lab2\DesafioHerencia\DesafioHerencia\obj\Debug\DesafioHerencia.Form1.resources
+C:\Users\sebia\source\repos\tps-lab2\DesafioHerencia\DesafioHerencia\obj\Debug\DesafioHerencia.Properties.Resources.resources
+C:\Users\sebia\source\repos\tps-lab2\DesafioHerencia\DesafioHerencia\obj\Debug\DesafioHerencia.csproj.GenerateResource.cache
+C:\Users\sebia\source\repos\tps-lab2\DesafioHerencia\DesafioHerencia\obj\Debug\DesafioHerencia.csproj.CoreCompileInputs.cache
+C:\Users\sebia\source\repos\tps-lab2\DesafioHerencia\DesafioHerencia\bin\Debug\DesafioHerencia.exe.config
+C:\Users\sebia\source\repos\tps-lab2\DesafioHerencia\DesafioHerencia\bin\Debug\DesafioHerencia.exe
+C:\Users\sebia\source\repos\tps-lab2\DesafioHerencia\DesafioHerencia\bin\Debug\DesafioHerencia.pdb
+C:\Users\sebia\source\repos\tps-lab2\DesafioHerencia\DesafioHerencia\obj\Debug\DesafioHerencia.exe
+C:\Users\sebia\source\repos\tps-lab2\DesafioHerencia\DesafioHerencia\obj\Debug\DesafioHerencia.pdb

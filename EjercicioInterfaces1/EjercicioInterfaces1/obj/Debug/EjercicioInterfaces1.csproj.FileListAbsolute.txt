@@ -1,0 +1,7 @@
+C:\Users\sebia\source\repos\tps-lab2\EjercicioInterfaces1\EjercicioInterfaces1\obj\Debug\EjercicioInterfaces1.csproj.AssemblyReference.cache
+C:\Users\sebia\source\repos\tps-lab2\EjercicioInterfaces1\EjercicioInterfaces1\obj\Debug\EjercicioInterfaces1.csproj.CoreCompileInputs.cache
+C:\Users\sebia\source\repos\tps-lab2\EjercicioInterfaces1\EjercicioInterfaces1\bin\Debug\EjercicioInterfaces1.exe.config
+C:\Users\sebia\source\repos\tps-lab2\EjercicioInterfaces1\EjercicioInterfaces1\bin\Debug\EjercicioInterfaces1.exe
+C:\Users\sebia\source\repos\tps-lab2\EjercicioInterfaces1\EjercicioInterfaces1\bin\Debug\EjercicioInterfaces1.pdb
+C:\Users\sebia\source\repos\tps-lab2\EjercicioInterfaces1\EjercicioInterfaces1\obj\Debug\EjercicioInterfaces1.exe
+C:\Users\sebia\source\repos\tps-lab2\EjercicioInterfaces1\EjercicioInterfaces1\obj\Debug\EjercicioInterfaces1.pdb

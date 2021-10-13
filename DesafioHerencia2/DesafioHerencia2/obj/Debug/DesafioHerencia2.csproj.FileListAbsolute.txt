@@ -1,0 +1,7 @@
+C:\Users\sebia\source\repos\tps-lab2\DesafioHerencia2\DesafioHerencia2\obj\Debug\DesafioHerencia2.csproj.AssemblyReference.cache
+C:\Users\sebia\source\repos\tps-lab2\DesafioHerencia2\DesafioHerencia2\obj\Debug\DesafioHerencia2.csproj.CoreCompileInputs.cache
+C:\Users\sebia\source\repos\tps-lab2\DesafioHerencia2\DesafioHerencia2\bin\Debug\DesafioHerencia2.exe.config
+C:\Users\sebia\source\repos\tps-lab2\DesafioHerencia2\DesafioHerencia2\bin\Debug\DesafioHerencia2.exe
+C:\Users\sebia\source\repos\tps-lab2\DesafioHerencia2\DesafioHerencia2\bin\Debug\DesafioHerencia2.pdb
+C:\Users\sebia\source\repos\tps-lab2\DesafioHerencia2\DesafioHerencia2\obj\Debug\DesafioHerencia2.exe
+C:\Users\sebia\source\repos\tps-lab2\DesafioHerencia2\DesafioHerencia2\obj\Debug\DesafioHerencia2.pdb

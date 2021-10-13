@@ -29,8 +29,9 @@ namespace DesafioHerencia2
         {
             return this.carga;
         }
-        public void precioFinal()
+        public override void precioFinal()//con override implico que hará sobreescritura del método precioFinal de la clase padre
         {
+            base.precioFinal();//con esta sentencia, se ejecutará el comportamiento del método de la clase padre también
             //Console.WriteLine("CALCULANDO PRECIOFINAL EN LAVADORA.CS");
             if (this.carga > 30)
                 this.precioBase = this.precioBase + 50;

@@ -61,7 +61,7 @@ namespace DesafioHerencia2
                 this.color = "blanco";
             }
         }
-        public void precioFinal()
+        public virtual void precioFinal() //con virtual implico que se heredará este método a las subclases
         {
             switch (this.consumo)
             {

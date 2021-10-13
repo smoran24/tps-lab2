@@ -33,8 +33,9 @@ namespace DesafioHerencia2
         {
             return this.sintonizador;
         }
-        public void precioFinal()
+        public override void precioFinal() //con override implico que hará sobreescritura del método precioFinal de la clase padre
         {
+            base.precioFinal(); //con esta sentencia, se ejecutará el comportamiento del método de la clase padre también
             //Console.WriteLine("CALCULANDO PRECIOFINAL EN TELEVISION.CS");
             if(this.resolucion > 40)
             {

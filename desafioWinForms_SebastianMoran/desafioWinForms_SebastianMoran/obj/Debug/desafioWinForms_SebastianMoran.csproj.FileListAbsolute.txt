@@ -1,0 +1,10 @@
+C:\Users\sebia\source\repos\tps-lab2\desafioWinForms_SebastianMoran\desafioWinForms_SebastianMoran\bin\Debug\desafioWinForms_SebastianMoran.exe.config
+C:\Users\sebia\source\repos\tps-lab2\desafioWinForms_SebastianMoran\desafioWinForms_SebastianMoran\bin\Debug\desafioWinForms_SebastianMoran.exe
+C:\Users\sebia\source\repos\tps-lab2\desafioWinForms_SebastianMoran\desafioWinForms_SebastianMoran\bin\Debug\desafioWinForms_SebastianMoran.pdb
+C:\Users\sebia\source\repos\tps-lab2\desafioWinForms_SebastianMoran\desafioWinForms_SebastianMoran\obj\Debug\desafioWinForms_SebastianMoran.csproj.AssemblyReference.cache
+C:\Users\sebia\source\repos\tps-lab2\desafioWinForms_SebastianMoran\desafioWinForms_SebastianMoran\obj\Debug\desafioWinForms_SebastianMoran.Form1.resources
+C:\Users\sebia\source\repos\tps-lab2\desafioWinForms_SebastianMoran\desafioWinForms_SebastianMoran\obj\Debug\desafioWinForms_SebastianMoran.Properties.Resources.resources
+C:\Users\sebia\source\repos\tps-lab2\desafioWinForms_SebastianMoran\desafioWinForms_SebastianMoran\obj\Debug\desafioWinForms_SebastianMoran.csproj.GenerateResource.cache
+C:\Users\sebia\source\repos\tps-lab2\desafioWinForms_SebastianMoran\desafioWinForms_SebastianMoran\obj\Debug\desafioWinForms_SebastianMoran.csproj.CoreCompileInputs.cache
+C:\Users\sebia\source\repos\tps-lab2\desafioWinForms_SebastianMoran\desafioWinForms_SebastianMoran\obj\Debug\desafioWinForms_SebastianMoran.exe
+C:\Users\sebia\source\repos\tps-lab2\desafioWinForms_SebastianMoran\desafioWinForms_SebastianMoran\obj\Debug\desafioWinForms_SebastianMoran.pdb

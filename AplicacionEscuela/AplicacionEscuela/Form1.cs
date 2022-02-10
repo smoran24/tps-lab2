@@ -26,5 +26,11 @@ namespace AplicacionEscuela
         {
 
         }
+
+        private void consultasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            VentanaAlumnosConsultas form = new VentanaAlumnosConsultas();
+            form.Show();
+        }
     }
 }
